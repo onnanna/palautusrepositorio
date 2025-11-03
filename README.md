@@ -1,2 +1,2 @@
-# ohtu-s25-palautukset
+# palautusrepositio
 https://github.com/onnanna/ohtuvarasto
