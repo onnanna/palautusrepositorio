@@ -1,2 +1,3 @@
 # palautusrepositio
-https://github.com/onnanna/ohtuvarasto
+ohtuvarasto: https://github.com/onnanna/ohtuvarasto
+webcounter: https://github.com/onnanna/webcounter
