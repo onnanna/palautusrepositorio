@@ -40,13 +40,10 @@ class TennisGame:
 
     def normal_score(self):
         score = ""
-
-        for i in range(1, 3):
-            if i == 1:
-                temp_score = self.m_score1
-            else:
+        scores = [self.m_score1, self.m_score2]
+        for i, temp_score in enumerate(scores):
+            if i > 0:
                 score += "-"
-                temp_score = self.m_score2
             score += self.get_score_name(temp_score)
         return score
 
